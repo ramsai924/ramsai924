@@ -11,15 +11,13 @@ As a highly skilled and experienced developer with over **6 years of expertise**
 💡 **If you’re seeking a dedicated, results-oriented developer to bring your vision to life, let’s connect!**  
 🚀 **I look forward to contributing to your success.**
 
----
 
 ## 🌍 About Me:
 - 📍 **I'm from Hyderabad, India**  
 - 📚 **Currently learning:** React Native & Data Structures and Algorithms  
 - 📧 **Email:** [ramsai924@gmail.com](mailto:ramsai924@gmail.com)  
-- 🔍 **Open to work:** MERN stack applications  
-
----
+- 🔍 **Open to work:** MERN stack applications
+  
 
 ## 🛠️ Skills
 
@@ -38,7 +36,17 @@ As a highly skilled and experienced developer with over **6 years of expertise**
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" />
 </p>
 
----
 
 ## 📊 GitHub Stats:
 ![Ram Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsai924&show_icons=true&theme=dark)
+
+## 📂 Projects
+
+### 🚀 COVID-19 Tracker Chrome Extension
+A Chrome extension to track COVID-19 cases in real time.
+🔗 [View on LinkedIn](https://www.linkedin.com/posts/ramsai-medhari-8364721b1_chromeextension-javascript-covid19app-activity-6707658862289395714-tu5n?utm_source=share&utm_medium=member_desktop&rcm=ACoAADFeSSoBB7H9PqKKFhTBblpP9FdFmHxXPLc)
+
+### 💾 Google Drive Clone
+A Google Drive-like application built using MERN stack.
+🔗 [View on LinkedIn](https://www.linkedin.com/posts/ramsai-medhari-8364721b1_googledrive-nodejsdeveloper-mongodb-activity-6720436725996490752-h1Jn?utm_source=share&utm_medium=member_desktop&rcm=ACoAADFeSSoBB7H9PqKKFhTBblpP9FdFmHxXPLc)
+
