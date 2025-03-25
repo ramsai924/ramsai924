@@ -6,25 +6,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
----
-
-## 📄 My Recent Articles:
-- [Getting Started with React](#)
-- [Pushing Your First Project to GitHub](#)
-- [Best Practices for React Projects](#)
-
----
-
-## ☕ Support Me:
-If you enjoy my work, consider buying me a coffee!  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F16061?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/YOUR_USERNAME)
-
----
 
 ## 📊 GitHub Stats:
-![Ram Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Ram Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramsai924&show_icons=true&theme=dark)
